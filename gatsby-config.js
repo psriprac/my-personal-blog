@@ -1,6 +1,7 @@
 module.exports = {
   siteMetadata: {
-      title: `My Blog`,
+    title: `My Blog`,
+    description: `This is my super cool blog.`,
     siteUrl: `https://www.yourdomain.tld`
   },
   plugins: ["gatsby-plugin-netlify-cms", "gatsby-plugin-mdx", {
